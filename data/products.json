@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Nike Air Monarch",
+            "image": "./images/products/nike/nike6_monarch.jpg",
+            "price": 70,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Nike Air Presto",
+            "image": "./images/products/nike/nike5_presto.jpg",
+            "price": 220,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Off-white 'OOO' ",
+            "image": "./images/products/off-white/off-4.jpg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Nike Air Force",
+            "image": "./images/products/nike/nike1_airmax.jpg",
+            "price": 179,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Off-white Out of office",
+            "image": "./images/products/off-white/off-5.jpg",
+            "price": 380,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Nike Air Huarache",
+            "image": "./images/products/nike/nike7_huarachi.jpg",
+            "price": 120,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Nike Air Zoom 37",
+            "image": "./images/products/nike/nike8_zoom.jpg",
+            "price": 89,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Off-white Arrows",
+            "image": "./images/products/off-white/off-6.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Nike Jordan 'Why not?'",
+            "image": "./images/products/nike/nike9_jordan.jpg",
+            "price": 220,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Off White ODSY",
+            "image": "./images/products/off-white/off-1.png",
+            "price": 670,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Off-white court 3.0",
+            "image": "./images/products/off-white/off-3.png",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Off-white low vulcanized",
+            "image": "./images/products/off-white/off-2.png",
+            "price": 199,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Nike Vapor Max",
+            "image": "./images/products/nike/nike3.png",
+            "price": 129,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Nike Crater Impact",
+            "image": "./images/products/nike/nike2.png",
+            "price": 100,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Nike Air 270",
+            "image": "./images/products/nike/nike4_270.jpg",
+            "price": 179,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Nike React Live for you",
+            "image": "./images/products/nike/nike10_foryou.png",
+            "price": 189,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Nike Jordan Delta",
+            "image": "./images/products/nike/nike11_delta.png",
+            "price": 300,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Off-white Sponge Clogs",
+            "image": "./images/products/off-white/off-7.png",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Nike Air Max 90'",
+            "image": "./images/products/nike/nike12_90.png",
+            "price": 179,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Nike Vapor Lite",
+            "image": "./images/products/nike/nike13_vapor.png",
+            "price": 89,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Off-white ODSY-2000",
+            "image": "./images/products/off-white/off-8.png",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Nike Air Zoom Arcadia",
+            "image": "./images/products/nike/nike14_zoom.png",
+            "price": 340,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Nike Air Force High",
+            "image": "./images/products/nike/nike15_high.png",
+            "price": 199,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Off-white Sliders",
+            "image": "./images/products/off-white/off-9.png",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Nike Air Max 95",
+            "image": "./images/products/nike/nike16_95.png",
+            "price": 179,
+            "category": "Featured Products"
+        }
+
+    ]
+}
