@@ -24,7 +24,7 @@
         {
             "id": 8,
             "title": "Nike Air Force",
-            "image": "./images/products/nike/nike1_airmax.jpg",
+            "image": "./images/products/nike/nike1.png",
             "price": 179,
             "category": "Featured Products"
         },
